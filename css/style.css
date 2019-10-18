@@ -10,6 +10,22 @@ li a {
 
 }
 
+#kleding_button {
+	background-color: #e40428;
+}
+
+#school_button {
+	background-color: #783f91;
+}
+
+#werk_geld_button {
+	background-color: #f59c00;
+}
+
+#games_button {
+	background-color: #0063af;
+}
+
 #title_panel {
 	width: 95%;
 	height: 100px;
