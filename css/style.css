@@ -1,0 +1,27 @@
+body {
+
+}
+
+li {
+
+}
+
+li a {
+
+}
+
+#title_panel {
+	width: 95%;
+	height: 100px;
+	background-color: lightgreen;
+	position: relative;
+	display: block;
+	border-radius: 10px;
+	border-color: green;
+	border-style: solid;
+
+}
+
+#menu_panel {
+
+}
