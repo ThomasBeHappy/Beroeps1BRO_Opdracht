@@ -1,46 +1,20 @@
 body {
-	background-image: url("green-polygonal-background.jpg");
-	background-repeat: no-repeat;
-	background-size: 100%;
 
+	background: rgb(255,255,255);
+	background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgb(209, 209, 209) 25%, rgba(33,244,0,1) 100%);
 }
 
-li {
-
+.nav-bar {
+	margin-top: -10px;
 }
 
-li a {
-
+div h1 {
+	color: white;	
 }
 
-#kleding_button {
-	background-color: #e40428;
-}
-
-#school_button {
-	background-color: #783f91;
-}
-
-#werk_geld_button {
-	background-color: #f59c00;
-}
-
-#games_button {
-	background-color: #0063af;
-}
-
-#title_panel {
-	width: 95%;
-	height: 100px;
-	background-color: lightgreen;
-	position: relative;
-	display: block;
-	border-radius: 10px;
-	border-color: green;
-	border-style: solid;
-
-}
-
-#menu_panel {
-
+.grid {
+	background-color: #e7e7e7;
+	width: 80vw;
+	height: 90vh;
+	box-shadow: 3px 2px 25px -4px gray;
 }
